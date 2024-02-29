@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.upwork.com/freelancers/~01b5031cea14ce6911" target="_blank" rel="noopener noreferrer"><img align="center" src="https://github.com/abdulmoiz-ds/AWS-Data-Engineering/blob/main/upwork-icon-removebg-preview.png" alt="abdulmoiz" height="30" width="40" /></a>
+  <a href="https://www.upwork.com/freelancers/~01028943583904d2a0?referrer_url_path=/nx/search/talent/details/~01028943583904d2a0/profile" target="_blank" rel="noopener noreferrer"><img align="center" src="https://github.com/abdulmoiz-ds/AWS-Data-Engineering/blob/main/upwork-icon-removebg-preview.png" alt="abdulmoiz" height="30" width="40" /></a>
   <a href="https://twitter.com/abduldotmoiz121" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abduldotmoiz121" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/abduldotmoiz121" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abduldotmoiz121" height="30" width="40" /></a>
   <a href="https://kaggle.com/abduldotmoiz121" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abduldotmoiz121" height="30" width="40" /></a>
