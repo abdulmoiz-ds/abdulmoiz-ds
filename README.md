@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@abdulmoizofficial0](https://medium.com/@abdulmoizofficial0)
 
-- 💬 Ask me about **Python, SQL, Power BI, AWS**
+- 💬 Ask me about **Python, SQL, Power BI, AWS, Apache Kafka, Apache Spark, Apache Airflow**
 
 - 📫 How to reach me **abdulmoizofficial0@gmail.com**
 
